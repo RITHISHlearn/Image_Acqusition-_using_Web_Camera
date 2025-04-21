@@ -1,7 +1,7 @@
 # Image Acquisition using Web Camera
 
-### Name : T Ajay
-### Register No : 212223230007
+### Name : RITHISH P
+### Register No : 212223230173
 
 ## Aim :
  
